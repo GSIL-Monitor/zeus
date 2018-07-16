@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="zeus-web:GWT">
+    <output-path>target/exploded/zeus-web.war</output-path>
+    <root id="root">
+      <element id="gwt-compiler-output" facet="zeus-web/gwt/GWT" />
+    </root>
+  </artifact>
+</component>

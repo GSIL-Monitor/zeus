@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/zeus.iml" filepath="$PROJECT_DIR$/zeus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/zeus-client.iml" filepath="$PROJECT_DIR$/client/zeus-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deploy/zeus-deploy.iml" filepath="$PROJECT_DIR$/deploy/zeus-deploy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schedule/zeus-schedule.iml" filepath="$PROJECT_DIR$/schedule/zeus-schedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/zeus-web.iml" filepath="$PROJECT_DIR$/web/zeus-web.iml" />
+    </modules>
+  </component>
+</project>
